@@ -1,0 +1,1 @@
+This is a project through Odin Academy where I will code the Google homepage on my own... wish me luck! 
